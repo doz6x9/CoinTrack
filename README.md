@@ -48,7 +48,7 @@ This project was built to demonstrate proficiency in modern Android Software Eng
 
 |                App Icon                 |                                  Main Ticker (Live Data)                                   |
 |:---------------------------------------:|:------------------------------------------------------------------------------------------:|
-| ![App Icon](C:\Users\sudip\AndroidStudioProjects\CoinTrack\screenshots\app_icon.png) | <img alt="Main Screen" src="C:\Users\sudip\AndroidStudioProjects\CoinTrack\screenshots\main_ticker.png"/> |
+| <img alt="App Icon" src=".\screenshots\app_icon.png"/> | <img alt="Main Screen" src=".\screenshots\main_ticker.png"/> |
 
 ---
 
