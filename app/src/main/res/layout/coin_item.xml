@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="16dp"
+    android:layout_margin="4dp"
+    android:background="#F5F5F5"
+    android:elevation="2dp">
+
+    <TextView
+        android:id="@+id/textCoinName"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:text="Bitcoin (BTC)" />
+
+    <TextView
+        android:id="@+id/textCoinPrice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:textColor="#2E7D32"
+        android:textStyle="bold"
+        android:text="$65,000.00" />
+
+</LinearLayout>
